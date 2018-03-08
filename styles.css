@@ -1,6 +1,12 @@
-button,
-div,
-form,
-input {
-  margin: 10px;
+body{
+  background-image:url("./Sports.png");
+}
+.jumbotron{
+  background-color: rgb(141, 209, 248);
+}
+.display-4 {
+  font-family: 'Lobster', cursive;
+}
+.sports{
+  font-family: 'Lobster', cursive;
 }
